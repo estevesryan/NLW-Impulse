@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* codigo handmade */
+
+body {
+    @apply bg-[#09090A] text-zinc-100
+}
